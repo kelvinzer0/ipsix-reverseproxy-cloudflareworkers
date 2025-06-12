@@ -6,3 +6,5 @@ Di DNS ipsix.domain.ku, tambahkan:
 ```
 *.ipsix.domain.ku   CNAME   your-workers-subdomain.workers.dev
 ```
+
+Protokol didukung: HTTP, HTTPS, WebSockets
